@@ -27,7 +27,7 @@ As a **MERN Stack Developer**, here are the technologies I work with:
 ## 📂 Featured Projects
 Here are some of the projects I’m most proud of:
 
-### 1. **[E-Commerce Platform](rainbow-kulfi-22a2bd.netlify.app)** 🛒
+### 1. **[E-Commerce Platform](https://rainbow-kulfi-22a2bd.netlify.app)** 🛒
    - A full-stack e-commerce platform with features like product listing, shopping cart, and payment gateway.
    - Tech Stack: React.js, Node.js, Express.js, MongoDB
 
