@@ -39,7 +39,7 @@ Here are some of the projects I’m most proud of:
    - A task management application with features like adding, deleting, and updating tasks.
    - Tech Stack: React.js, Node.js, MongoDB
 
-*(Feel free to replace the placeholders with your actual project links and descriptions.)*
+
 
 ---
 
