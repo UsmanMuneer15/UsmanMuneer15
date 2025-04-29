@@ -35,7 +35,7 @@ Here are some of the projects I’m most proud of:
    - A personal portfolio showcasing my projects, skills, and experience.
    - Tech Stack: React.js, TailwindCSS, Netlify
 
-### 3. **[Task Management App](#)** ✅
+### 3. **[Task Management App](https://iridescent-lokum-6c83c4.netlify.app/)** ✅
    - A task management application with features like adding, deleting, and updating tasks.
    - Tech Stack: React.js, Node.js, MongoDB
 
