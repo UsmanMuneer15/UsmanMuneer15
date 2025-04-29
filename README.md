@@ -1,6 +1,6 @@
 # Hi there, I'm Usman Muneer! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer, constantly learning and building innovative solutions. Here's a bit about me:
+Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** who loves building innovative and scalable web applications. Here's a bit about me:
 
 ---
 
@@ -8,29 +8,45 @@ Welcome to my GitHub profile! I'm a passionate developer, constantly learning an
 - 💻 **GitHub Username**: [UsmanMuneer15](https://github.com/UsmanMuneer15)
 - 🔗 **LinkedIn Profile**: [Usman Muneer](https://www.linkedin.com/in/usmanmuneerlinkden/)
 - 🌐 **Portfolio**: [usmanmuneer-portfolio.netlify.app](https://usmanmuneer-portfolio.netlify.app/)
-- 🌱 **Currently Learning**: [Your technology or skill you're learning, e.g., AI/ML, Web Development, etc.]
-- 📫 **How to reach me**: Feel free to connect with me on LinkedIn or explore my repositories here on GitHub.
+- 🌱 **Currently Learning**: Advanced backend development and cloud integration.
+- 📫 **How to reach me**: Connect with me on LinkedIn or explore my repositories here on GitHub.
+
+---
+
+## 🚀 Skills and Technologies
+As a **MERN Stack Developer**, here are the technologies I work with:
+- **Frontend**: React.js, HTML5, CSS3, JavaScript, Bootstrap, TailwindCSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB, Mongoose
+- **Other Tools**: Git, GitHub, REST APIs, Postman, NPM, Webpack
+- **Version Control**: Git & GitHub
+- **Hosting**: Netlify, Vercel, Heroku
 
 ---
 
 ## 📂 Featured Projects
 Here are some of the projects I’m most proud of:
-- **[Project Name 1](#)**: Brief description of the project.
-- **[Project Name 2](#)**: Brief description of the project.
-- **[Project Name 3](#)**: Brief description of the project.
 
----
+### 1. **[E-Commerce Platform](#)** 🛒
+   - A full-stack e-commerce platform with features like product listing, shopping cart, and payment gateway.
+   - Tech Stack: React.js, Node.js, Express.js, MongoDB
 
-## 🚀 Skills and Technologies
-- **Programming Languages**: [List your languages, e.g., Python, JavaScript, etc.]
-- **Frameworks & Tools**: [List frameworks and tools, e.g., React, Node.js, etc.]
-- **Other**: [Mention other skills, e.g., Git, Docker, etc.]
+### 2. **[Portfolio Website](https://usmanmuneer-portfolio.netlify.app/)** 🌐
+   - A personal portfolio showcasing my projects, skills, and experience.
+   - Tech Stack: React.js, TailwindCSS, Netlify
+
+### 3. **[Task Management App](#)** ✅
+   - A task management application with features like adding, deleting, and updating tasks.
+   - Tech Stack: React.js, Node.js, MongoDB
+
+*(Feel free to replace the placeholders with your actual project links and descriptions.)*
 
 ---
 
 ## ✨ Fun Facts
 - 🌍 I love exploring new technologies and solving real-world problems.
-- 📚 In my free time, I enjoy reading tech blogs, playing games, or contributing to open-source projects.
+- 🧑‍💻 I enjoy contributing to open-source projects and collaborating with fellow developers.
+- 🎮 In my free time, I play games or read tech blogs.
 
 ---
 
